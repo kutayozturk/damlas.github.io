@@ -1,6 +1,6 @@
 /*! ------------------------------------------------
- * Project Name: Azurio - Digital Agency & Personal Portfolio HTML Template
- * Project Description: Stand out and express your uniqueness with Azurio - a vibrant and minimal HTML template for creatives, studios and freelancers. Impress your website visitors with a clean, stylish layout and stunning visuals.
+ * Project Name: Damlas - Digital Agency & Personal Portfolio HTML Template
+ * Project Description: Stand out and express your uniqueness with Damlas - a vibrant and minimal HTML template for creatives, studios and freelancers. Impress your website visitors with a clean, stylish layout and stunning visuals.
  * Tags: mix_design, resume, portfolio, personal page, cv, template, one page, responsive, html5, css3, creative, clean, agency, studio 
  * Version: 1.0.0
  * Build Date: March 2026
@@ -470,8 +470,8 @@ label {
 }
 
 ::-webkit-scrollbar {
-  width: 10px;
-  height: 10px;
+  width: 14px;
+  height: 14px;
   background-color: var(--base);
 }
 
@@ -481,13 +481,13 @@ label {
 }
 
 ::-webkit-scrollbar-thumb {
-  background: linear-gradient(180deg, var(--accent), var(--highlight));
+  background: #DE1A49;
   border-radius: 10px;
   border: 2px solid var(--base);
 }
 
 ::-webkit-scrollbar-thumb:hover {
-  background: linear-gradient(180deg, var(--highlight), var(--accent));
+  background: #DE1A49;
 }
 
 ::-webkit-scrollbar-corner {
@@ -496,8 +496,8 @@ label {
 
 @media only screen and (min-width: 768px) {
   ::-webkit-scrollbar {
-    width: 10px;
-    height: 10px;
+    width: 14px;
+    height: 14px;
   }
 }
 html {
@@ -519,7 +519,7 @@ body {
   background-color: var(--base);
   color: var(--t-medium);
   scrollbar-width: thin;
-  scrollbar-color: var(--accent) var(--base);
+  scrollbar-color: #DE1A49 var(--base);
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
