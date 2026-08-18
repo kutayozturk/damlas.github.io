@@ -6337,6 +6337,17 @@ form textarea:required:valid {
     font-size: 28cqw;
   }
 }
+.mxd-footer__fw-mark {
+  width: 100vw;
+  margin-left: calc(50% - 50vw);
+}
+.fw-mark__content img {
+  display: block;
+  width: 100%;
+  height: auto;
+  flex-shrink: 0;
+  object-fit: contain;
+}
 
 .footer-blocks__nav-v01 {
   position: relative;
