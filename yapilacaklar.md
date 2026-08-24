@@ -11,12 +11,12 @@
 - [x] öne çıkan haberler silinecek
 - [x] Projeniz hakkında konuşalım kısmını Promosyon ürünlerle değiştirilecek
 - [ ] 🔴 Menü yapısı değiştirilecek, adres olmayacak, telefon ve mail yeterli
-- [x] AZURIO yazısı DAMLAS logosu ile olarak değişecek
-- [x] sol en üstteki logo biraz büyüsün\*
-- [x] mause ucu uçan resimlere sadece kuş değişik renklerde olacak\*
+- [ ] AZURIO yazısı DAMLAS logosu ile olarak değişecek
+- [x] sol en üstteki logo biraz büyüsün
+- [x] mause ucu uçan resimlere sadece kuş değişik renklerde olacak
 - [ ] çanta fotoları hızını düşür
-- [x] duvar saatleri dpf yanlış \*
-- [x] kutulu set pdf yanlış\*
+- [x] duvar saatleri dpf yanlış
+- [x] kutulu set pdf yanlış
 - [x] şemsiye foto altntadi yazısı değişecek
 - [x] tekstil bölümünde yazılar giiricek tshirt-sapka vs
 - [ ] en alttaki font değişecek damlas logo klasörüne attım fontu
@@ -29,6 +29,9 @@
 - [x] Kuşevleri çerçevesinde kalan kod parçasını temizle
 - [ ] Gereksiz linkleri temizle
 - [ ] Siteyi onepage olarak düzenle
+- [x] Çanta Katalog PDF'i eklenecek
+- [x] Kutulu Set PDF güncelle
+- [x] Şemsiye PDF güncelle
 
 <br>
 
