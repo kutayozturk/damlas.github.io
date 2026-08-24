@@ -25,8 +25,12 @@
 - [x] en altta kayan resimlerin üzerindeki yazılar kalkacak
 
 - [ ] teknolojik ürünlere pdf hazırlanacak(dmls)
-- [ ] Favicon değişecek
+- [x] Favicon değişecek
 - [x] Kuşevleri çerçevesinde kalan kod parçasını temizle
+- [ ] Gereksiz linkleri temizle
+- [ ] Siteyi onepage olarak düzenle
+
+<br>
 
 # Site İçi Yazılar
 
