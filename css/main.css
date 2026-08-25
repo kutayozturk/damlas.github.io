@@ -13426,6 +13426,43 @@ form textarea:required:valid {
   position: relative;
 }
 
+.textile-grid .mxd-project-item {
+  padding: 0 1.5rem;
+  margin-bottom: 3rem;
+}
+@media only screen and (min-width: 1200px) {
+  .textile-grid .mxd-project-item {
+    margin-bottom: 3.5rem;
+    padding: 0 1.5rem;
+  }
+}
+.textile-grid .mxd-project-item__media {
+  display: block;
+  width: 100%;
+  aspect-ratio: 16 / 10;
+  border-radius: 12px;
+  overflow: hidden;
+  background-color: #ffffff;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.06);
+  transition: transform 0.35s ease, box-shadow 0.35s ease;
+}
+.textile-grid .mxd-project-item:hover .mxd-project-item__media {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 28px rgba(0, 0, 0, 0.12);
+}
+.textile-grid .mxd-project-item__media img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  -o-object-fit: cover;
+     object-fit: cover;
+  object-position: center;
+  transition: transform 0.4s ease;
+}
+.textile-grid .mxd-project-item:hover .mxd-project-item__media img {
+  transform: scale(1.02);
+}
+
 .mxd-projects-grid__gallery {
   position: relative;
   display: -webkit-box;

@@ -1632,7 +1632,7 @@ function mxdHoverSlideshow() {
         images[current].style.opacity = 0;
         current = (current + 1) % images.length;
         images[current].style.opacity = 1;
-      }, 350);
+      }, 1000);
     });
 
     item.addEventListener('mouseleave', () => {
