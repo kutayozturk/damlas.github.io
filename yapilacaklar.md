@@ -32,6 +32,7 @@
 - [x] Çanta Katalog PDF'i eklenecek
 - [x] Kutulu Set PDF güncelle
 - [x] Şemsiye PDF güncelle
+- [ ] Sol üst damlas logusu, % olarak ayarlanacak
 
 <br>
 
