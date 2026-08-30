@@ -4,10 +4,10 @@
 - [x] Siteyi onepage olarak düzenle
 - [x] 🔴 Menü yapısı değiştirilecek, adres olmayacak, telefon ve mail yeterli
 - [ ] teknolojik ürünlere pdf hazırlanacak(dmls)
-- [ ] Kuş Evleri gri çerçeve kaldırılacak
-- [ ] 404 sayfasını düzelt
+- [x] Kuş Evleri gri çerçeve kaldırılacak
+- [x] 404 sayfasını düzelt
 - [ ] mobil uyumluluk
-- [ ] ingilizce, almanca dilleri ekle
+- [ ] ingilizce, almanca, rusça dilleri ekle
 - [ ] dil değiştirme butonu eklenecek
 - [x] Tekstil yazısı eklenecek
 - [x] Tekstil ürünleri sıralaması değişecek
